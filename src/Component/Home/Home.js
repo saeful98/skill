@@ -12,19 +12,19 @@ function Home() {
 	return (
 		<div className="background">
 			<p className="topleft">
-				<Link to="/Profil" className="fontmenu">
+				<Link to="/profil" className="fontmenu">
 					PROFIL
 				</Link>
 			</p>
 
 			<p className="topright">
-				<Link to="/Skill" className="fontmenu">
+				<Link to="/skill" className="fontmenu">
 					SKILL
 				</Link>
 			</p>
 
 			<p className="bottomleft">
-				<Link to="/Portfolio" className="fontmenu">
+				<Link to="/portfolio" className="fontmenu">
 					PORTFOLIO
 				</Link>
 			</p>

@@ -14,7 +14,7 @@ function Portfolio() {
 						<a
 							class="btn"
 							style={{ borderWidth: 1, borderColor: 'black', borderRadius: 3, padding: 10 }}
-							href="/"
+							href="/home"
 						>
 							<i class="fa d-inline fa-lg fa-circle" />
 							<b> Home</b>
